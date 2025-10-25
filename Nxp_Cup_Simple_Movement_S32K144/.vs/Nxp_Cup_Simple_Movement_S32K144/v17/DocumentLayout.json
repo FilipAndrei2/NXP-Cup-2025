@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\An2\\NXP\\NXP-2025\\Nxp_Cup_Simple_Movement_S32K144\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\An2\\NXP\\NXP-2025\\Nxp_Cup_Simple_Movement_S32K144\\src\\speed.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\speed.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\An2\\NXP\\NXP-2025\\Nxp_Cup_Simple_Movement_S32K144\\include\\speed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\speed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "speed.h",
+              "DocumentMoniker": "C:\\An2\\NXP\\NXP-2025\\Nxp_Cup_Simple_Movement_S32K144\\include\\speed.h",
+              "RelativeDocumentMoniker": "include\\speed.h",
+              "ToolTip": "C:\\An2\\NXP\\NXP-2025\\Nxp_Cup_Simple_Movement_S32K144\\include\\speed.h",
+              "RelativeToolTip": "include\\speed.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T09:36:38.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "speed.c",
+              "DocumentMoniker": "C:\\An2\\NXP\\NXP-2025\\Nxp_Cup_Simple_Movement_S32K144\\src\\speed.c",
+              "RelativeDocumentMoniker": "src\\speed.c",
+              "ToolTip": "C:\\An2\\NXP\\NXP-2025\\Nxp_Cup_Simple_Movement_S32K144\\src\\speed.c",
+              "RelativeToolTip": "src\\speed.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-03T09:36:19.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
